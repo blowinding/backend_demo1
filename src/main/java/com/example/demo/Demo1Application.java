@@ -8,9 +8,9 @@ public class Demo1Application {
 
     public static void main(String[] args) {
         SpringApplication.run(Demo1Application.class, args);
-	System.out.println("rain push");
-        System.out.println("rain libtity push");
+        System.out.println("libtity 侯浩然 push");
+        System.out.println("djn 杜金诺 push");
+        System.out.println("rain hello");
     }
-
 
 }
