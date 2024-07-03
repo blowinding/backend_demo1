@@ -11,6 +11,7 @@ public class Demo1Application {
         System.out.println("libtity 侯浩然 push");
         System.out.println("djn 杜金诺 push");
         System.out.println("rain hello");
+        System.out.println("吕晓宸 hello");
     }
 
 }
